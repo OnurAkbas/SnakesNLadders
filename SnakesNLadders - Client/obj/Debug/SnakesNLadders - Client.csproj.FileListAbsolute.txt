@@ -1,0 +1,34 @@
+C:\Users\Sloskyinator\Desktop\Uni\Year 2\COMP1564 System Programming\Project\SnakesNLadders - Client\SnakesNLadders - Client\bin\Debug\SnakesNLadders - Client.exe.config
+C:\Users\Sloskyinator\Desktop\Uni\Year 2\COMP1564 System Programming\Project\SnakesNLadders - Client\SnakesNLadders - Client\bin\Debug\SnakesNLadders - Client.exe
+C:\Users\Sloskyinator\Desktop\Uni\Year 2\COMP1564 System Programming\Project\SnakesNLadders - Client\SnakesNLadders - Client\bin\Debug\SnakesNLadders - Client.pdb
+C:\Users\Sloskyinator\Desktop\Uni\Year 2\COMP1564 System Programming\Project\SnakesNLadders - Client\SnakesNLadders - Client\bin\Debug\aa-DJ\SnakesNLadders - Client.resources.dll
+C:\Users\Sloskyinator\Desktop\Uni\Year 2\COMP1564 System Programming\Project\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\SnakesNLadders - Client.csprojResolveAssemblyReference.cache
+C:\Users\Sloskyinator\Desktop\Uni\Year 2\COMP1564 System Programming\Project\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\SnakesNLadders___Client.Properties.Resources.resources
+C:\Users\Sloskyinator\Desktop\Uni\Year 2\COMP1564 System Programming\Project\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\SnakesNLadders - Client.csproj.GenerateResource.Cache
+C:\Users\Sloskyinator\Desktop\Uni\Year 2\COMP1564 System Programming\Project\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\aa-DJ\SnakesNLadders - Client.resources.dll
+C:\Users\Sloskyinator\Desktop\Uni\Year 2\COMP1564 System Programming\Project\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\SnakesNLadders - Client.exe
+C:\Users\Sloskyinator\Desktop\Uni\Year 2\COMP1564 System Programming\Project\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\SnakesNLadders - Client.pdb
+C:\Users\Sloskyinator\Desktop\Uni\Year 2\COMP1564 System Programming\Project\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\SnakesNLadders___Client.Host.resources
+C:\Users\Sloskyinator\Desktop\Uni\Year 2\COMP1564 System Programming\Project\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\SnakesNLadders___Client.Menu.resources
+C:\Users\Sloskyinator\Desktop\Uni\Year 2\COMP1564 System Programming\Project\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\SnakesNLadders___Client.Menu.aa-DJ.resources
+C:\Users\Sloskyinator\Desktop\Uni\Year 2\COMP1564 System Programming\Project\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\CLIENT.CONNECTION.resources
+C:\Users\Sloskyinator\Desktop\Uni\Year 2\COMP1564 System Programming\Project\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\CLIENT.LOBBY.resources
+C:\Users\Basil\Desktop\SnakesNLadders - Client\SnakesNLadders - Client\bin\Debug\SnakesNLadders - Client.exe.config
+C:\Users\Basil\Desktop\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\SnakesNLadders - Client.exe
+C:\Users\Basil\Desktop\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\SnakesNLadders - Client.pdb
+C:\Users\Basil\Desktop\SnakesNLadders - Client\SnakesNLadders - Client\bin\Debug\SnakesNLadders - Client.exe
+C:\Users\Basil\Desktop\SnakesNLadders - Client\SnakesNLadders - Client\bin\Debug\SnakesNLadders - Client.pdb
+C:\Users\Basil\Desktop\SnakesNLadders - Client\SnakesNLadders - Client\bin\Debug\aa-DJ\SnakesNLadders - Client.resources.dll
+C:\Users\Basil\Desktop\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\SnakesNLadders - Client.csprojResolveAssemblyReference.cache
+C:\Users\Basil\Desktop\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\CLIENT.CONNECTION.resources
+C:\Users\Basil\Desktop\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\SnakesNLadders___Client.Host.resources
+C:\Users\Basil\Desktop\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\CLIENT.LOBBY.resources
+C:\Users\Basil\Desktop\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\SnakesNLadders___Client.Menu.resources
+C:\Users\Basil\Desktop\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\SnakesNLadders___Client.Properties.Resources.resources
+C:\Users\Basil\Desktop\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\SnakesNLadders___Client.Menu.aa-DJ.resources
+C:\Users\Basil\Desktop\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\SnakesNLadders - Client.csproj.GenerateResource.Cache
+C:\Users\Basil\Desktop\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\aa-DJ\SnakesNLadders - Client.resources.dll
+E:\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\SnakesNLadders - Client.csprojResolveAssemblyReference.cache
+E:\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\SnakesNLadders - Client.exe
+E:\SnakesNLadders - Client\SnakesNLadders - Client\obj\Debug\SnakesNLadders - Client.pdb
+E:\SnakesNLadders - Client\SnakesNLadders - Client\bin\Debug\SnakesNLadders - Client.exe.config
